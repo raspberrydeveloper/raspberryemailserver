@@ -38,7 +38,7 @@ During the installation, you’ll have to choose these two configuration options
 
 * System mail name: domain.com
 
-Just choose internet site.
+Just choose internet site and enter your raspberry pi hostname.
 
 Now you will need to make two changes in the configuration that has been generated:
 
